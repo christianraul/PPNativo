@@ -26,7 +26,7 @@ DefaultTableModel model;
     public consulta() {
         initComponents();
         this.setLocationRelativeTo(null);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
         cargar("");
     }
     

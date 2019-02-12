@@ -35,7 +35,7 @@ public class registropago extends javax.swing.JFrame {
     public registropago() {
         initComponents();
         this.setLocationRelativeTo(this);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
         cargar("");
     }
     void cargar(String valor) {

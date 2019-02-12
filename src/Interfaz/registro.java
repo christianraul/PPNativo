@@ -20,7 +20,7 @@ public class registro extends javax.swing.JFrame {
     public registro() {
         initComponents();
         setLocationRelativeTo(this);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
         limpiar();
         bloquear();
         desbloquear();

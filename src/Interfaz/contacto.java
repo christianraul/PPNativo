@@ -18,7 +18,7 @@ public class contacto extends javax.swing.JFrame {
      */
     public contacto() {
         this.setLocationRelativeTo(this);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
         initComponents();
     }
 

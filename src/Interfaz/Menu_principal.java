@@ -29,7 +29,7 @@ public class Menu_principal extends javax.swing.JFrame {
     public Menu_principal() {
         initComponents();
         setLocationRelativeTo(this);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
     }
 
     /**

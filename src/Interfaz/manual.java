@@ -19,7 +19,7 @@ public class manual extends javax.swing.JFrame {
     public manual() {
         initComponents();
         this.setLocationRelativeTo(this);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
     }
 
     /**

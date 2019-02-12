@@ -32,7 +32,7 @@ public class pago extends javax.swing.JFrame {
     public pago() {
         initComponents();
         setLocationRelativeTo(this);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
         cargar("");
         limpiar();
         bloquer();

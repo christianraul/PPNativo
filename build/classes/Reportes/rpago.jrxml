@@ -55,10 +55,6 @@ FROM
 				</textElement>
 				<text><![CDATA[Reporte de Pago]]></text>
 			</staticText>
-			<image>
-				<reportElement x="15" y="-10" width="93" height="65" uuid="273dcd84-559a-4936-a8eb-076f3030a4ac"/>
-				<imageExpression><![CDATA["C:\\Users\\Tadeo\\Documents\\Github\\PNavito\\Proyecto\\ProyectoNativo\\src\\Imagenes\\logg.png"]]></imageExpression>
-			</image>
 		</band>
 	</title>
 	<pageHeader>

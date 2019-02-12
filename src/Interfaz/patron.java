@@ -36,7 +36,7 @@ public class patron extends javax.swing.JFrame {
     public patron() {
         initComponents();
         this.setLocationRelativeTo(null);
-        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/logg.png")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("/Imagenes/logg.png")).getImage());
         cargar("");
     }
 

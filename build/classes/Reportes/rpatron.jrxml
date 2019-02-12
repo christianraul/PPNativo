@@ -81,10 +81,6 @@ FROM
 					<text><![CDATA[Patrón General]]></text>
 				</staticText>
 			</frame>
-			<image>
-				<reportElement x="23" y="-10" width="136" height="110" uuid="cc659beb-3d64-4be4-aca6-46fcba87814d"/>
-				<imageExpression><![CDATA["C:\\Users\\Tadeo\\Documents\\Github\\PNavito\\Proyecto\\ProyectoNativo\\src\\Imagenes\\logg.png"]]></imageExpression>
-			</image>
 		</band>
 	</title>
 	<pageHeader>

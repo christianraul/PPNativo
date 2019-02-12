@@ -63,10 +63,6 @@ FROM
 					<text><![CDATA[Reporte de Habilitados]]></text>
 				</staticText>
 			</frame>
-			<image>
-				<reportElement x="9" y="-13" width="128" height="94" uuid="fd7a9e43-8811-4ab8-add1-c798c6eb20a0"/>
-				<imageExpression><![CDATA["C:\\Users\\Tadeo\\Documents\\Github\\PNavito\\Proyecto\\ProyectoNativo\\src\\Imagenes\\logg.png"]]></imageExpression>
-			</image>
 		</band>
 	</title>
 	<pageHeader>
